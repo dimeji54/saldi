@@ -1,0 +1,32 @@
+img {
+    width: 1000px;
+    border-radius: 200px;
+    color: yellow
+}
+
+.email {
+    font-weight: bolder;
+    font-size: x-large;
+    color: blue;
+}
+
+p {
+    font-style: oblique;
+    font-weight: 1000;
+    float: left;
+    color: aqua;
+    font-size: x-large;
+}
+
+.welcome {
+    font-style: italic;
+    font-size: 5pc;
+    background-color: rgb(255, 208, 0);
+    margin-top: 0px;
+    border-style: solid;
+}
+#main{
+    align-content: center;
+}
+
+}
